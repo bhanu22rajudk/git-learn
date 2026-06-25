@@ -1,0 +1,4 @@
+ complete the Module 2
+Learn how to stage and commit
+push project to Github
+add new feature on a separate branch
